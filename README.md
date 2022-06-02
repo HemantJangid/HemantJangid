@@ -1,28 +1,27 @@
-### Hi there 👋
+### Hey 👋, I'm Hemant
 
-<!--
-**HemantJangid/HemantJangid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/HemantJangid?label=Follow&style=social)](https://github.com/HemantJangid)
 
-Here are some ideas to get you started:
+I'm a MERN stack developer thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: freelancing and therefore take great pleasure out of working on interesting freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+<a href="https://github.com/HemantJangid/">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantJangid&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/HemantJangid/">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=HemantJangid&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Hemant Jangid's Github stats" />
+</a>
+</div>
 
-## Let me introduce myself
+<br/>
 
-My name is Hemant Jangid and I am a Software Engineer currently working at Chenoa Information Services. I like to build web applications and I have worked with MERN stack mainly. 
-
-## GitHub Stats
-
-![Hemant’ GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantJangid&theme=synthwave&show_icons=true&count_private=true “Hemant’ GutHub Stats”)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantJangid&theme=synthwave “Andres’ Top Languages Card”)
-
-<a href=”https://www.linkedin.com/in/jhemant/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href=”https://www.instagram.com/hmnt_3d/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<!-- Social button 1 -->
+<a href="https://instagram.com/hmnt_3d">
+<img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on instagram" >
+</a>
+&nbsp;
+<!-- Social button 2 -->
+<a href="https://www.linkedin.com/in/jhemant/">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on linkedin">
+</a>
+</div>
